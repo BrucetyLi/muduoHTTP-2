@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/muduohttp.dir/main.cc.o CMakeFiles/muduohttp.dir/src/util.cc.o -o /root/code/muduohttp2/bin/muduohttp  -lmuduo_net -lmuduo_base -lpthread -lnghttp2 -lssl -lcrypto 
