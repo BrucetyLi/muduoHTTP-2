@@ -1,4 +1,4 @@
-一个基于muduo库与nghttp2的http/2多线程反应堆服务器，用作学习使用，简单实现回显功能。
+一个基于muduo库与nghttp2的http/2多线程反应堆服务器，用作学习使用，目前的功能还是为回显。 后续复杂功能可基于此添加
 <!--
 g++ -o quickhttp2tls.out quickhttp2tls.cc -lnghttp2 -lssl -lcrypto
 
